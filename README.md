@@ -11,4 +11,4 @@ Fluorescence molecule signal is counted in all channels, but last (the last chan
 
 **Reference:**
 
-Shel-Hwa Yeo, Zülfiye Gül, Ziyue Zhou, Leila Muresan, Ellen G. Wall, Allan E. Herbison, Dynamic changes in Ccn3 expression across the limbic forebrain through the mouse estrous cycle and during lactation
+Shel-Hwa Yeo, Zülfiye Gül, Ziyue Zhou, Leila Muresan, Ellen G. Wall, Allan E. Herbison: Dynamic changes in *Ccn3* expression across the limbic forebrain through the mouse estrous cycle and during lactation
